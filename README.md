@@ -1,1 +1,1 @@
-# Next App With TypeScript!
+# Next.JS In TypeScript!
