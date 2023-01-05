@@ -1,1 +1,1 @@
-# Next.JS In TypeScript!
+# EBAY Next.JS!
